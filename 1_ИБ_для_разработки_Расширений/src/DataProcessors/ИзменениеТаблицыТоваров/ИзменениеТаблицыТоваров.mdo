@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="54bc5657-5380-41be-a434-ff8afbfc44c6">
+  <producedTypes>
+    <objectType typeId="ee6f7b0c-d6be-4031-bed0-fa6b4390202b" valueTypeId="01e612d1-19a3-406e-b96c-019535dd7a6e"/>
+    <managerType typeId="5ef3d4a1-0b24-4f66-9a03-2a4476e36db8" valueTypeId="a7f11377-33b0-42b7-a932-8224f8c9c595"/>
+  </producedTypes>
+  <name>ИзменениеТаблицыТоваров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Изменение таблицы товаров</value>
+  </synonym>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ИзменениеТаблицыТоваров.Form.Форма</defaultForm>
+  <forms uuid="362f9f1e-29f3-4bf3-8673-63411e22302e">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

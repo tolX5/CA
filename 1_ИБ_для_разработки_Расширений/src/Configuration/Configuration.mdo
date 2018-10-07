@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bf9abb5e-fca7-4807-b996-83f179ea39ad">
+  <name>Конфигурация</name>
+  <comment></comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="136ed765-a41b-49d0-9f02-7eaa622ecd2e"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="de15a536-5775-41be-b8af-b22583a0a516"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="76919a5c-b3b5-45f8-97e6-f6804ceb3fab"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="5ee0fb88-3c95-4a61-aaeb-221210e26abe"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="a1aac1e6-c0e5-4128-9758-a1801056d007"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6b2653d4-643f-41b1-8ef6-4364f93fa760"/>
+  <namePrefix></namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor></vendor>
+  <version></version>
+  <updateCatalogAddress></updateCatalogAddress>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="c6beb981-7ccc-42a3-b104-e9a044da4d56">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.са_РасширениеФункционалаДокТребованиеНакладная</subsystems>
+  <subsystems>Subsystem.са_ПечатныеФормыРБдляУНФ</subsystems>
+  <subsystems>Subsystem.са_СверткаСтрокДляДокИнвентаризацияЗапасов</subsystems>
+  <exchangePlans>ExchangePlan.СинхронизацияДанныхЧерезУниверсальныйФормат</exchangePlans>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <documents>Document.ТребованиеНакладная</documents>
+  <documents>Document.РасходнаяНакладная</documents>
+  <documents>Document.ИнвентаризацияЗапасов</documents>
+  <documents>Document.НачислениеЗарплаты</documents>
+  <dataProcessors>DataProcessor.ИзменениеТаблицыТоваров</dataProcessors>
+</mdclass:Configuration>

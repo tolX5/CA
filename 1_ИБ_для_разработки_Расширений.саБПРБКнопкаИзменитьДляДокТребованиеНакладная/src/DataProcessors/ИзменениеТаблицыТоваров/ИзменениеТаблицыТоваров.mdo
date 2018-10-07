@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5a749d2a-f86b-4ba8-9edf-45e8cc6cac1b">
+  <producedTypes>
+    <objectType typeId="b28c5e43-df59-49bc-aff9-9fd93d112e37" valueTypeId="ad56d75e-85d6-4474-8768-2cdd33fd6a1c"/>
+    <managerType typeId="132c60bc-e645-4576-a475-9a7b1143d88b" valueTypeId="68283330-b226-4607-99da-5120de7ef85e"/>
+  </producedTypes>
+  <name>ИзменениеТаблицыТоваров</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DataProcessorExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <forms uuid="4f42abd8-896e-4ef5-915e-796647994b89">
+    <name>Форма</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:DataProcessor>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="5bf3cbe9-2dc4-496f-82b0-38344e737519">
+  <producedTypes>
+    <objectType typeId="9a9bb9c0-839b-477f-9ee3-137d19d5c0d7" valueTypeId="9bc03827-450c-4ace-9458-f9a1e12abfa7"/>
+    <refType typeId="8b8d2760-e1f7-4e6c-b9df-3b877de611f8" valueTypeId="4618c636-3e09-4de5-9a61-178a12c303f6"/>
+    <selectionType typeId="29edac52-5514-4815-9e6b-ca995b82029d" valueTypeId="892e6e45-e9a9-42b7-bc41-586f56cf4c20"/>
+    <listType typeId="555d1814-225f-4678-9a3d-091a5268b405" valueTypeId="16b492e9-e42d-49ac-b4ba-f76ff658597d"/>
+    <managerType typeId="063b1791-61a8-440f-b42e-c6f9c12ce53b" valueTypeId="22c514f2-eb59-43e2-bfd2-b1a69b8b68f0"/>
+  </producedTypes>
+  <name>РасходнаяНакладная</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DocumentExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <forms uuid="c3144ec7-1dbd-4439-bf2f-8746b326001a">
+    <name>ФормаДокумента</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e55e9b62-e384-4740-b380-ac60f6659936">
+  <producedTypes>
+    <objectType typeId="0928b4b7-12d2-41b4-85b0-9b514711fc08" valueTypeId="948f316d-f166-4a30-84c2-abd9528b957d"/>
+    <refType typeId="292a5ebe-7582-415b-abfd-1140691bb7ea" valueTypeId="997b2de0-e2b9-4fd5-ba5b-20c5bf7a1518"/>
+    <selectionType typeId="89749101-6027-4cce-8f19-666f5e2c3eec" valueTypeId="7bd4d10d-5fd9-4587-b7d5-98800f99ebcd"/>
+    <listType typeId="8f7fee7a-500a-4689-a779-8673a1daf724" valueTypeId="3314901a-f277-44a7-9e39-4c08b14de1fc"/>
+    <managerType typeId="1caeef15-0bad-4c56-9225-b9d1873bb937" valueTypeId="0f014d21-5612-49fa-b22d-c075298270c4"/>
+  </producedTypes>
+  <name>ИнвентаризацияЗапасов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Инвентаризация запасов</value>
+  </synonym>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ИнвентаризацияЗапасов.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.ИнвентаризацияЗапасов.Form.ФормаДокумента</defaultObjectForm>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <forms uuid="45fe089c-7595-4ab0-bfec-9917778b0949">
+    <name>ФормаДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма документа</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Document>

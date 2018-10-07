@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cfd8c744-c85f-42f4-bb91-4cf3d297856e">
+  <name>са_ПечатныеФормыРБдляУНФ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Са печатные формы р бдля УНФ</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>Document.РасходнаяНакладная</content>
+</mdclass:Subsystem>
