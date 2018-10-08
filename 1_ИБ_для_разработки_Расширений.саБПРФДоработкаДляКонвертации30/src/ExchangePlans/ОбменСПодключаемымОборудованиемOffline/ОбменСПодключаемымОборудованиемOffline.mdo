@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExchangePlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="ba07a4b7-9d42-4ee1-82e3-8f3dcb9d2b5f" thisNode="a8463aeb-eca9-42b3-8f36-c3e92fa9a5ce">
+  <producedTypes>
+    <objectType typeId="0e3220a2-b321-4610-94fe-b53554690592" valueTypeId="d8f53574-8b22-4a16-9596-30bdd7dca0a5"/>
+    <refType typeId="799b686a-87a7-4fb8-ae5d-61a8f29afd7f" valueTypeId="cb85660a-0668-4fb9-b00c-518969ad86ec"/>
+    <selectionType typeId="4f472053-908f-43f9-99e9-2652c2e2a294" valueTypeId="861ab3eb-debb-4687-a44f-4e43d4651777"/>
+    <listType typeId="9b76dc79-2af4-4479-9a7d-e0cf1a082872" valueTypeId="d2afe01d-4c14-4d63-b92e-8b525fa0f9d2"/>
+    <managerType typeId="ebf29786-1a8c-4acb-93fc-22b06cc46d5d" valueTypeId="d2d6c03b-7c56-43bb-8e9d-785ab27df4c9"/>
+  </producedTypes>
+  <name>ОбменСПодключаемымОборудованиемOffline</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ExchangePlanExtension">
+    <managerModule>Extended</managerModule>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ExchangePlan>

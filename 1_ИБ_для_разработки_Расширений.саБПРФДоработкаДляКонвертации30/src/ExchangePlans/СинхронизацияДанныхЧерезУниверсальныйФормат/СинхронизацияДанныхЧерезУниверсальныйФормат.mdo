@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExchangePlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="bec1632a-7592-42ba-b5ee-253c05795442" thisNode="dc3a17ae-f713-48b7-9398-e6ed647eba68">
+  <producedTypes>
+    <objectType typeId="d717fcda-f3f1-4391-abad-e08f99dce207" valueTypeId="2cf4a5a6-161d-4bde-b679-41f0595a6c48"/>
+    <refType typeId="be1eb2f6-6fb6-4df0-a631-acd143c36998" valueTypeId="d657f8bc-0af4-4755-a68f-62427b0b6c60"/>
+    <selectionType typeId="9b8605e5-4892-452a-9aa6-f793ce58e71b" valueTypeId="c7764b3e-e921-43a0-ae7b-18a9466900d4"/>
+    <listType typeId="9f0c86d3-9f85-4165-8b3f-237e05a9a013" valueTypeId="eee57e87-1ce9-400d-ab1b-f243f3c6530e"/>
+    <managerType typeId="485600af-8d19-43c3-89ba-4c7e2ef8ada4" valueTypeId="870badff-bde0-4940-a9bc-64cd5453accf"/>
+  </producedTypes>
+  <name>СинхронизацияДанныхЧерезУниверсальныйФормат</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ExchangePlanExtension">
+    <managerModule>Extended</managerModule>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="5a6a2e05-a88c-475e-ac40-786d7b4ca8ee">
+    <name>ПутьКМенеджеруОбмена</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFeatureExtension">
+      <type>Checked</type>
+    </extension>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>500</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <forms uuid="56a7e6ff-fa8c-4b0d-9d88-a96566fae071">
+    <name>ФормаУзла</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicFormExtension">
+      <form>Extended</form>
+    </extension>
+  </forms>
+</mdclass:ExchangePlan>

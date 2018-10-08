@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExchangePlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="15aabbb5-ecd9-477b-a233-bc7d3c344457" thisNode="bf468969-ad64-4d5f-90de-62adb2a96d0c">
+  <producedTypes>
+    <objectType typeId="5de2b477-e8af-4d2e-bce8-2d670e4ecb98" valueTypeId="1c99ffa8-0676-4cee-bb7c-29f1c5585ecd"/>
+    <refType typeId="57aea40c-326d-44ec-aa3a-da7d79cb2c54" valueTypeId="b0d42bd7-d5c9-4672-b56a-ebbf66874d1d"/>
+    <selectionType typeId="2a1ab0c9-69f9-4663-96f5-31a38df26cb0" valueTypeId="87fda6b9-334d-4698-be77-b8caa675db12"/>
+    <listType typeId="52f6c63b-99ef-4342-a579-2957182b0d29" valueTypeId="0cbb04bd-c476-41d2-8eb3-7c68086b86ed"/>
+    <managerType typeId="88c2cede-b295-4947-937b-e269dec3377e" valueTypeId="90e50abd-6a55-436f-93a1-48b77c109bc4"/>
+  </producedTypes>
+  <name>УдалитьОбменУправлениеТорговлейБухгалтерияКОРПФоновый</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ExchangePlanExtension">
+    <managerModule>Extended</managerModule>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ExchangePlan>

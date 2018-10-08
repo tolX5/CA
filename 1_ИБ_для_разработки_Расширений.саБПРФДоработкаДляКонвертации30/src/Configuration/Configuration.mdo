@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="32d0c199-2c91-4f24-a7fe-4c3a030b0987">
+  <name>саБПРФДоработкаДляКонвертации30</name>
+  <synonym>
+    <key>ru</key>
+    <value>Доработка для конвертации30 (са)</value>
+  </synonym>
+  <comment>в ММ ПдановОбмена добавлена Процедура ПриПолученииНастроек т.к. нужна при подключении обработки с внешними правилами обмена</comment>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="0382fc03-a522-4767-aa82-86c2e702dddd"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="fdd05b3a-3836-4a49-b7b2-88ae3273698d"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="48fff478-4b12-4d4a-97f9-87f1a6f1b04a"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="ade9a6b0-6b99-4750-8771-44a22cd26277"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="f7d68e62-57dd-4aae-bc00-4c04208f224d"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="21b3c49c-2f06-4634-95ac-8ee1f321b255"/>
+  <namePrefix>EDм_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.10</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor></vendor>
+  <version></version>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="657bcc7f-7cbb-4437-aae4-473501d0d6e1">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.ОбменДаннымиXDTOСервер</commonModules>
+  <exchangePlans>ExchangePlan.МобильнаяБухгалтерия</exchangePlans>
+  <exchangePlans>ExchangePlan.МобильноеПриложениеПредприниматель</exchangePlans>
+  <exchangePlans>ExchangePlan.ОбменСПодключаемымОборудованиемOffline</exchangePlans>
+  <exchangePlans>ExchangePlan.ОбновлениеИнформационнойБазы</exchangePlans>
+  <exchangePlans>ExchangePlan.СинхронизацияДанныхЧерезУниверсальныйФормат</exchangePlans>
+  <exchangePlans>ExchangePlan.УдалитьОбменРозницаБухгалтерия20</exchangePlans>
+  <exchangePlans>ExchangePlan.УдалитьОбменРозницаБухгалтерияПредприятия</exchangePlans>
+  <exchangePlans>ExchangePlan.УдалитьОбменУправлениеНебольшойФирмойБухгалтерия20</exchangePlans>
+  <exchangePlans>ExchangePlan.УдалитьОбменУправлениеТорговлейБухгалтерияКОРП</exchangePlans>
+  <exchangePlans>ExchangePlan.УдалитьОбменУправлениеТорговлейБухгалтерияКОРПФоновый</exchangePlans>
+  <exchangePlans>ExchangePlan.УдалитьОбменУправлениеТорговлейБухгалтерияПредприятия</exchangePlans>
+  <exchangePlans>ExchangePlan.УдалитьПолный</exchangePlans>
+  <exchangePlans>ExchangePlan.УдалитьПоОрганизации</exchangePlans>
+</mdclass:Configuration>

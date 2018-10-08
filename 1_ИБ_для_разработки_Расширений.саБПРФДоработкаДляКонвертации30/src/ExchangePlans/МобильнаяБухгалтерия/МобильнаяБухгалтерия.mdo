@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExchangePlan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="75452022-5457-454c-a357-793b9e745e94" thisNode="ad3c1886-13ce-4a90-9b13-53d098071559">
+  <producedTypes>
+    <objectType typeId="19573b05-29a6-4f0e-a21f-20c2f944b254" valueTypeId="54e915e3-36b6-4b06-82ac-ddaf84dfa83d"/>
+    <refType typeId="91ffc989-27d2-4173-ab3d-d26e81a155d0" valueTypeId="cd4c225a-84a2-47cf-a50d-6dcc5389b5ae"/>
+    <selectionType typeId="3d056882-9ede-4c86-b75f-009db3d05876" valueTypeId="947ebfbf-deda-4e0e-a7f2-0316fdcf7a9c"/>
+    <listType typeId="28ca6675-f00e-4d92-ba0d-1de8f5b072d3" valueTypeId="8e40699c-2d50-414a-85a1-4dd4651fae98"/>
+    <managerType typeId="1f247d4b-7749-41c0-a72a-d0fc510e022e" valueTypeId="febd315d-0527-4bdf-8e8c-32160ae2a1aa"/>
+  </producedTypes>
+  <name>МобильнаяБухгалтерия</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ExchangePlanExtension">
+    <managerModule>Extended</managerModule>
+  </extension>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>DontUse</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <codeLength>9</codeLength>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <descriptionLength>25</descriptionLength>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:ExchangePlan>
