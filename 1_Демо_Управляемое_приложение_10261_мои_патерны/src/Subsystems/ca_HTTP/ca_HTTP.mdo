@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2568c85f-16da-407e-8994-f936c9e1dade">
+  <name>ca_HTTP</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ca HTTP</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <explanation>
+    <key>ru</key>
+    <value>примеры из статьи http://xn----1-bedvffifm4g.xn--p1ai/articles/2017-09-07-exchange-with-internet-services/
+
+как вести отладку http-сервиса
+https://infostart.ru/public/538808/</value>
+  </explanation>
+  <content>DataProcessor.саЗагрузкаКартинкиССайта</content>
+  <content>HTTPService.Customers</content>
+  <content>Catalog.Контрагенты</content>
+  <content>DataProcessor.саОтправитьЗапросJSON</content>
+</mdclass:Subsystem>

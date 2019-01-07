@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f6c7a34b-aaaf-46a8-aa32-700b502d8b1a">
+  <name>са_Индикатор</name>
+  <synonym>
+    <key>ru</key>
+    <value>Са индикатор</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <explanation>
+    <key>ru</key>
+    <value>http://xn----1-bedvffifm4g.xn--p1ai/articles/2017-09-08-display-progress-of-long-operations/
+
+лючевые слова: двухсторонняя связь между клиентом и сервером в режиме реального времени!    Источник: ©Курсы-по-1С.рф</value>
+  </explanation>
+  <content>DataProcessor.саИндикатор</content>
+  <content>CommonModule.ОбщийМодуль1</content>
+  <content>DataProcessor.саИндикаторНаСистемеВзаимодействия</content>
+</mdclass:Subsystem>
