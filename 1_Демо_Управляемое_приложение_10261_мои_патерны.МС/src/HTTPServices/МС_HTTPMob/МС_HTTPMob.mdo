@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:HTTPService xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b4267b37-2278-4752-b35e-1626952ef9d3">
+  <name>МС_HTTPMob</name>
+  <synonym>
+    <key>ru</key>
+    <value>М с HTTPMob</value>
+  </synonym>
+  <comment></comment>
+  <rootURL>MC_HTTPMob</rootURL>
+  <sessionMaxAge>20</sessionMaxAge>
+  <urlTemplates uuid="dd0c5e3e-7553-4607-8f20-054ac73b7f7c">
+    <name>MobClientHTTP</name>
+    <synonym>
+      <key>ru</key>
+      <value>Mob client HTTP</value>
+    </synonym>
+    <comment></comment>
+    <template>/V1/{ВхДанные}</template>
+    <methods uuid="fa8bc734-cd7c-42ee-9ed2-e0fb085268eb">
+      <name>PingMe</name>
+      <synonym>
+        <key>ru</key>
+        <value>Ping me</value>
+      </synonym>
+      <comment></comment>
+      <handler>MobClientHTTPPingMe</handler>
+    </methods>
+    <methods uuid="9ac58bcd-79c5-445e-88b6-54d65eb12353">
+      <name>POST_Servis</name>
+      <synonym>
+        <key>ru</key>
+        <value>POST servis</value>
+      </synonym>
+      <comment></comment>
+      <httpMethod>POST</httpMethod>
+      <handler>MobClientHTTPPOST_Servis</handler>
+    </methods>
+  </urlTemplates>
+</mdclass:HTTPService>
