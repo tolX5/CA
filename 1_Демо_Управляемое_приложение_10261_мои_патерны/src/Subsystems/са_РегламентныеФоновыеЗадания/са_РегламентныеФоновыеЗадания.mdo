@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="50800200-6bac-4821-95b9-46138ee4fe86">
+  <name>са_РегламентныеФоновыеЗадания</name>
+  <synonym>
+    <key>ru</key>
+    <value>Са регламентные фоновые задания</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <explanation>
+    <key>ru</key>
+    <value>по мотивам МГ Тема №13
+Примеры
+прерывания длительной операции</value>
+  </explanation>
+  <content>DataProcessor.саПримерПрерыванияДлительнойОперации</content>
+  <content>CommonModule.ОбщийМодуль1</content>
+  <content>ScheduledJob.РегламентноеЗадание1</content>
+  <content>Document.ПриходТовара</content>
+</mdclass:Subsystem>
