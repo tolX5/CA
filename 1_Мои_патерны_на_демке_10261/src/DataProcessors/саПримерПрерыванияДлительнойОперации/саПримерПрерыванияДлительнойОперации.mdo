@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8ec21fa6-4428-4a20-a874-5b49b5b10383">
+  <producedTypes>
+    <objectType typeId="f41b39a6-9cc2-47b1-9f74-c41c4c7cf232" valueTypeId="96806c74-03f5-4918-a980-910b9dc0e0aa"/>
+    <managerType typeId="66945644-6cee-447f-ab5d-f3f0a0e5b5b5" valueTypeId="768ba910-0fac-4dfe-b0a8-9d4c8d392dc2"/>
+  </producedTypes>
+  <name>саПримерПрерыванияДлительнойОперации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Са пример прерывания длительной операции</value>
+  </synonym>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.саПримерПрерыванияДлительнойОперации.Form.Форма</defaultForm>
+  <forms uuid="9a01c9f7-46f0-4c4e-849c-3d5c8cb9e818">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
