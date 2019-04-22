@@ -240,6 +240,7 @@
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Заказ</documents>
   <documents>Document.ТребованиеНакладная</documents>
+  <documents>Document.ЗаказПокупателя</documents>
   <documentJournals>DocumentJournal.ФинансовыеДокументы</documentJournals>
   <documentJournals>DocumentJournal.ДокументыПродаж</documentJournals>
   <enums>Enum.ВидыТоваров</enums>
