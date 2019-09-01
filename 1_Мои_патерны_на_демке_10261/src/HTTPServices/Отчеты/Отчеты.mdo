@@ -5,7 +5,6 @@
     <key>ru</key>
     <value>Отчеты</value>
   </synonym>
-  <comment></comment>
   <rootURL>Report</rootURL>
   <reuseSessions>AutoUse</reuseSessions>
   <sessionMaxAge>20</sessionMaxAge>
@@ -15,7 +14,6 @@
       <key>ru</key>
       <value>Получить отчет</value>
     </synonym>
-    <comment></comment>
     <template>/{name}/{user}</template>
     <methods uuid="fda56938-ecf0-4447-8f22-7fff8fec22d8">
       <name>Получить</name>
@@ -23,7 +21,6 @@
         <key>ru</key>
         <value>Получить</value>
       </synonym>
-      <comment></comment>
       <handler>ПолучитьОтчетПолучить</handler>
     </methods>
   </urlTemplates>

@@ -9,7 +9,6 @@
     <key>ru</key>
     <value>Код нового узла плана обмена</value>
   </synonym>
-  <comment></comment>
   <type>
     <types>Number</types>
     <numberQualifiers>
@@ -17,7 +16,6 @@
       <nonNegative>true</nonNegative>
     </numberQualifiers>
   </type>
-  <mask></mask>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>

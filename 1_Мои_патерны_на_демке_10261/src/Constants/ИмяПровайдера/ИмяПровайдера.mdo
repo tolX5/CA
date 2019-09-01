@@ -9,14 +9,12 @@
     <key>ru</key>
     <value>Имя провайдера</value>
   </synonym>
-  <comment></comment>
   <type>
     <types>String</types>
     <stringQualifiers>
       <length>40</length>
     </stringQualifiers>
   </type>
-  <mask></mask>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>

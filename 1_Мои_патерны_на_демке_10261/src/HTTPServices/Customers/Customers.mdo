@@ -5,7 +5,6 @@
     <key>ru</key>
     <value>Customers</value>
   </synonym>
-  <comment></comment>
   <rootURL>Demo</rootURL>
   <reuseSessions>AutoUse</reuseSessions>
   <sessionMaxAge>20</sessionMaxAge>
@@ -15,7 +14,6 @@
       <key>ru</key>
       <value>Get customers list</value>
     </synonym>
-    <comment></comment>
     <template>/List</template>
     <methods uuid="c5f4e0a6-4898-4557-916a-e79c4663eb0e">
       <name>GetCustomersList</name>
@@ -23,7 +21,6 @@
         <key>ru</key>
         <value>Get customers list</value>
       </synonym>
-      <comment></comment>
       <handler>GetCustomersListGetCustomersList</handler>
     </methods>
   </urlTemplates>
@@ -33,7 +30,6 @@
       <key>ru</key>
       <value>Get customer info</value>
     </synonym>
-    <comment></comment>
     <template>/GetCustomerInfo/{CustomerCode}</template>
     <methods uuid="393cf2ac-44bf-4654-97cf-a64685fe6dca">
       <name>GetCustomerInfo</name>
@@ -41,7 +37,6 @@
         <key>ru</key>
         <value>Get customer info</value>
       </synonym>
-      <comment></comment>
       <handler>GetCustomersInfoGetCustomerInfo</handler>
     </methods>
   </urlTemplates>
@@ -51,7 +46,6 @@
       <key>ru</key>
       <value>Post customer info</value>
     </synonym>
-    <comment></comment>
     <template>/PostCustomerInfo</template>
     <methods uuid="cab51da1-8644-4ccd-9530-dde3e432bf17">
       <name>PostCustomerInfo</name>
@@ -59,7 +53,6 @@
         <key>ru</key>
         <value>Post customer info</value>
       </synonym>
-      <comment></comment>
       <httpMethod>POST</httpMethod>
       <handler>PostCustomerInfoPostCustomerInfo</handler>
     </methods>

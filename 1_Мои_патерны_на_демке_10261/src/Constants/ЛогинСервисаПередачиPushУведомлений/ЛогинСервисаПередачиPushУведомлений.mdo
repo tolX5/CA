@@ -9,7 +9,6 @@
     <key>ru</key>
     <value>Ключ доступа</value>
   </synonym>
-  <comment></comment>
   <type>
     <types>String</types>
     <stringQualifiers>
@@ -17,7 +16,6 @@
       <fixed>true</fixed>
     </stringQualifiers>
   </type>
-  <mask></mask>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>

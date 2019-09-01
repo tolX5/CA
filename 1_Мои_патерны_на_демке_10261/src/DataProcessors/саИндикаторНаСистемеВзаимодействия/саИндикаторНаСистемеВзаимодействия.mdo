@@ -9,7 +9,6 @@
     <key>ru</key>
     <value>Са индикатор на системе взаимодействия</value>
   </synonym>
-  <comment></comment>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.саИндикаторНаСистемеВзаимодействия.Form.Форма</defaultForm>
   <forms uuid="ba4af1b5-a99a-4305-832e-334740f8b6a9">
@@ -18,7 +17,6 @@
       <key>ru</key>
       <value>Форма</value>
     </synonym>
-    <comment></comment>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>

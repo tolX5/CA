@@ -9,7 +9,6 @@
     <key>ru</key>
     <value>Са отправить запрос JSON</value>
   </synonym>
-  <comment></comment>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.саОтправитьЗапросJSON.Form.Форма</defaultForm>
   <attributes uuid="b9bbf089-dc40-4486-a85b-997372d56121">
@@ -18,14 +17,12 @@
       <key>ru</key>
       <value>Код</value>
     </synonym>
-    <comment></comment>
     <type>
       <types>String</types>
       <stringQualifiers>
         <length>9</length>
       </stringQualifiers>
     </type>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -35,14 +32,12 @@
       <key>ru</key>
       <value>Наименование</value>
     </synonym>
-    <comment></comment>
     <type>
       <types>String</types>
       <stringQualifiers>
         <length>50</length>
       </stringQualifiers>
     </type>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -52,14 +47,12 @@
       <key>ru</key>
       <value>Телефон</value>
     </synonym>
-    <comment></comment>
     <type>
       <types>String</types>
       <stringQualifiers>
         <length>12</length>
       </stringQualifiers>
     </type>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -69,14 +62,12 @@
       <key>ru</key>
       <value>Электронная почта</value>
     </synonym>
-    <comment></comment>
     <type>
       <types>String</types>
       <stringQualifiers>
         <length>50</length>
       </stringQualifiers>
     </type>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -86,14 +77,12 @@
       <key>ru</key>
       <value>Jivo ID</value>
     </synonym>
-    <comment></comment>
     <type>
       <types>Number</types>
       <numberQualifiers>
         <precision>10</precision>
       </numberQualifiers>
     </type>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -103,7 +92,6 @@
       <key>ru</key>
       <value>Форма</value>
     </synonym>
-    <comment></comment>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>

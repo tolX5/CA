@@ -5,7 +5,6 @@
     <key>ru</key>
     <value>Шрифт важной информации</value>
   </synonym>
-  <comment></comment>
   <type>Font</type>
   <value xsi:type="core:FontValue">
     <value xsi:type="core:FontRef">

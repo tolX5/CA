@@ -5,10 +5,7 @@
     <key>ru</key>
     <value>Регламентное задание1</value>
   </synonym>
-  <comment></comment>
   <methodName>CommonModule.ОбщийМодуль1.Регламент</methodName>
-  <description></description>
-  <key></key>
   <use>true</use>
   <restartCountOnFailure>3</restartCountOnFailure>
   <restartIntervalOnFailure>25</restartIntervalOnFailure>

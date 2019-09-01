@@ -12,7 +12,6 @@
     <key>ru</key>
     <value>Требование накладная</value>
   </synonym>
-  <comment></comment>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ТребованиеНакладная.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
@@ -33,7 +32,6 @@
       <key>ru</key>
       <value>Форма документа</value>
     </synonym>
-    <comment></comment>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>

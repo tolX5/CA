@@ -5,9 +5,7 @@
     <key>ru</key>
     <value>Помощник неотработанные заказы</value>
   </synonym>
-  <comment></comment>
   <methodName>CommonModule.Помощник.ПомощникНеотработанныеЗаказы</methodName>
-  <description></description>
   <key>1</key>
   <predefined>true</predefined>
   <restartCountOnFailure>3</restartCountOnFailure>

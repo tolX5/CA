@@ -9,11 +9,9 @@
     <key>ru</key>
     <value>Выбор провайдера геопозиционирования</value>
   </synonym>
-  <comment></comment>
   <type>
     <types>EnumRef.ИспользоватьПровайдерГеопозиционирования</types>
   </type>
-  <mask></mask>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>

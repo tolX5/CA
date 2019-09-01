@@ -14,48 +14,39 @@
     <key>ru</key>
     <value>Цены товаров</value>
   </synonym>
-  <comment></comment>
   <dataHistory>Use</dataHistory>
   <useStandardCommands>true</useStandardCommands>
   <editType>InDialog</editType>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
     <name>Active</name>
-    <comment></comment>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
     <name>LineNumber</name>
-    <comment></comment>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
     <name>Recorder</name>
-    <comment></comment>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
     <name>Period</name>
-    <comment></comment>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
     <fullTextSearch>Use</fullTextSearch>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </standardAttributes>
@@ -90,7 +81,6 @@
       <key>ru</key>
       <value>Цена</value>
     </synonym>
-    <comment></comment>
     <type>
       <types>Number</types>
       <numberQualifiers>
@@ -103,7 +93,6 @@
       <key>ru</key>
       <value>Цена товара</value>
     </toolTip>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <quickChoice>DontUse</quickChoice>
@@ -120,7 +109,6 @@
       <key>ru</key>
       <value>Товар</value>
     </synonym>
-    <comment></comment>
     <type>
       <types>CatalogRef.Товары</types>
     </type>
@@ -128,7 +116,6 @@
       <key>ru</key>
       <value>Товар</value>
     </toolTip>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
@@ -148,11 +135,9 @@
       <key>ru</key>
       <value>Вид цен</value>
     </synonym>
-    <comment></comment>
     <type>
       <types>CatalogRef.ВидыЦен</types>
     </type>
-    <mask></mask>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>

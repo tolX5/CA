@@ -9,11 +9,9 @@
     <key>ru</key>
     <value>Использовать APNS</value>
   </synonym>
-  <comment></comment>
   <type>
     <types>Boolean</types>
   </type>
-  <mask></mask>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>

@@ -5,6 +5,5 @@
     <key>ru</key>
     <value>Общий модуль1</value>
   </synonym>
-  <comment></comment>
   <server>true</server>
 </mdclass:CommonModule>

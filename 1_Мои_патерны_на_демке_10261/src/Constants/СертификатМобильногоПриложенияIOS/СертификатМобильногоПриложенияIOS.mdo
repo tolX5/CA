@@ -9,11 +9,9 @@
     <key>ru</key>
     <value>Сертификат мобильного приложения IOS</value>
   </synonym>
-  <comment></comment>
   <type>
     <types>ValueStorage</types>
   </type>
-  <mask></mask>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>

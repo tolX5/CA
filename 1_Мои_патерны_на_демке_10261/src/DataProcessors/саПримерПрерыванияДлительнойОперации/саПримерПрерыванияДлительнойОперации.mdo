@@ -9,7 +9,6 @@
     <key>ru</key>
     <value>Са пример прерывания длительной операции</value>
   </synonym>
-  <comment></comment>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.саПримерПрерыванияДлительнойОперации.Form.Форма</defaultForm>
   <forms uuid="9a01c9f7-46f0-4c4e-849c-3d5c8cb9e818">
@@ -18,7 +17,6 @@
       <key>ru</key>
       <value>Форма</value>
     </synonym>
-    <comment></comment>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>

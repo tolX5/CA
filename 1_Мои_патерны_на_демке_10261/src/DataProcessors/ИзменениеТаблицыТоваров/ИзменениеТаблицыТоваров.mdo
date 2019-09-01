@@ -9,7 +9,6 @@
     <key>ru</key>
     <value>Изменение таблицы товаров</value>
   </synonym>
-  <comment></comment>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.ИзменениеТаблицыТоваров.Form.Форма</defaultForm>
   <forms uuid="d4511119-c964-4779-807d-464e38093bba">
@@ -18,7 +17,6 @@
       <key>ru</key>
       <value>Форма</value>
     </synonym>
-    <comment></comment>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>

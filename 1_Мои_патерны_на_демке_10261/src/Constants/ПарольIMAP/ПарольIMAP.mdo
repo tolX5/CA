@@ -9,14 +9,12 @@
     <key>ru</key>
     <value>Пароль IMAP</value>
   </synonym>
-  <comment></comment>
   <type>
     <types>String</types>
     <stringQualifiers/>
   </type>
   <useStandardCommands>true</useStandardCommands>
   <passwordMode>true</passwordMode>
-  <mask></mask>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>

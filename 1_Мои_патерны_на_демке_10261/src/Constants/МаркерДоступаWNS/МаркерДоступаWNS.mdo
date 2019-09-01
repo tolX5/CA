@@ -9,12 +9,10 @@
     <key>ru</key>
     <value>Маркер доступа WNS</value>
   </synonym>
-  <comment></comment>
   <type>
     <types>String</types>
     <stringQualifiers/>
   </type>
-  <mask></mask>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
   <dataLockControlMode>Managed</dataLockControlMode>

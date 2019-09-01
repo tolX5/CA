@@ -9,7 +9,6 @@
     <key>ru</key>
     <value>Са загрузка картинки с сайта</value>
   </synonym>
-  <comment></comment>
   <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.саЗагрузкаКартинкиССайта.Form.Форма</defaultForm>
   <forms uuid="9c52164f-a4e8-4162-a016-5c852b8d3fb9">
@@ -18,7 +17,6 @@
       <key>ru</key>
       <value>Форма</value>
     </synonym>
-    <comment></comment>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
