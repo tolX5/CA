@@ -10,7 +10,11 @@
 	ЗаголовокЗапросаHTTP.Вставить("Accept", "image/png");
 	ЗаголовокЗапросаHTTP.Вставить("User-Agent", "1C+Enterprise/8.3");
 	
+<<<<<<< HEAD
 	//TODO из дому
+=======
+	//TODO с работы 1
+>>>>>>> branch 'master' of https://github.com/tolX5/CA
 	//3. создаем HTTP-запрос
 	HTTPЗапрос = Новый HTTPЗапрос(
 		"/wp-content/uploads/2016/11/kursy-po-1c.ru-logo-300wide-58high-2016-11-02-v2.png", 
